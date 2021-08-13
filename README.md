@@ -2,6 +2,7 @@
 ----------------
 
 Set Your DNS:
+-------------
 DSN1: 209.182.219.167
 DSN2: 207.246.121.77
 
@@ -10,7 +11,7 @@ Features:
 ---------
 
 - Supports Switch Firmware 12.1.0
-- Pair Bluetooth Controllers & Headphones through btpair app
+- Pair Bluetooth Controllers & Headphones & Speakers through btpair app
 - New Switch Launcher With Theme Support
 - Background FTP Server for filetransfers
 - Use Tinfoil to download games and dlc from online shops
@@ -26,6 +27,7 @@ Features:
 - Tesla overlay to controll overclock, apply amiibos, ftp server ( Press L1 + DpadDown + RightStick )
 - Play Retro games including Atari, SEGA, Nintendo Gameboy, Sony Playstation 1 using RetroArch
 - Fake Links A Nintendo Account to your switch using Linkalho app
+- Play Online with LAN-Play http://www.lan-play.com/
 
 
 
