@@ -19,7 +19,7 @@ Features:
 - Pair Bluetooth Controllers & Headphones & Speakers through btpair app
 - New Switch Launcher With Theme Support
 - Background FTP Server for filetransfers
-- Use Tinfoil to download games and dlc from online shops
+- Use Tinfoil to download games and dlc from pre-loaded online shops
 - Install NSP, NSZ, XCI, XCZ files from USB Hard drives, Google Drive, WLAN, Wired, Tinfoil Shops
 - Overclock & Underclock System (Defult Dock Mode Overclocked)
 - Update OFS & CFW Through homebrew
