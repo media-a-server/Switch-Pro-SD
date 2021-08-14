@@ -16,6 +16,8 @@ Features:
 ---------
 
 - Supports Switch Firmware 12.1.0
+- Latest Versions Of Atmosphere, Hekate & All Homebrew Apps To Support 12.1.0
+- Updated All Sigpatches for 12.1.0 (nedded to start games and homebrew)
 - Pair Bluetooth Controllers & Headphones & Speakers through btpair app
 - New Switch Launcher With Theme Support
 - Background FTP Server for filetransfers
