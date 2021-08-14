@@ -1,4 +1,4 @@
--[ Switch Pro SD ]-       **UDATED: 8/13/2021**
+-[ Switch Pro SD ]-       **UDATED: 8/14/2021**
 ----------------
 
 Set Your DNS:
