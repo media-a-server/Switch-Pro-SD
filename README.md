@@ -33,6 +33,7 @@ Features:
 - Play Retro games including Atari, SEGA, Nintendo Gameboy, Sony Playstation 1 using RetroArch
 - Fake Links A Nintendo Account to your switch using Linkalho app
 - Play Online with LAN-Play http://www.lan-play.com/
+- Switch Is Overclocked When Docked Running At Full Speed
 
 
 
