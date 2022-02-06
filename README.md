@@ -1,18 +1,18 @@
 -[ Switch Pro SD ]-       **UDATED: 8/14/2021**
 ----------------
 
-Set Your DNS:
+🔶Set Your DNS:
 -------------
 DSN1: 209.182.219.167
 DSN2: 207.246.121.77
 
 
-YouTube Video:
+🔶YouTube Video:
 --------------
 YouTube Video Link: https://youtu.be/1f-majOyhbg
 
 
-Features:
+🔶Features:
 ---------
 
 - Supports Switch Firmware 12.1.0
@@ -39,7 +39,7 @@ Features:
 
 
 
-How To Use:
+🔶How To Use:
 -----------
 
 - Download the latest release 
@@ -50,7 +50,7 @@ How To Use:
 
 
 
-Featuring:
+🔶Featuring:
 ----------
 
 - Atmosphere
@@ -103,4 +103,4 @@ Featuring:
 
 
 
-Packed By A-Network (https://a-network.ca/switch.php)
+🔶Packed By A-Network (https://a-network.ca/switch.php)
